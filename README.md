@@ -2,7 +2,7 @@
   <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" width="80%" alt="hero-gif" />  
 </p>
 
-<h1 align="center">Hi 👋, I'm Ansari Mohd Furqan Shamim</h1>
+<h1 align="center">Hey 👋, I'm Ansari Furqan</h1>
 
 ## 🌟 About Me
 
@@ -50,16 +50,6 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
-### 🧰 IDEs
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-
-### 💻 Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-
 ---
 
 ## ⚡ Fun & Mind-Blowing Things
@@ -70,11 +60,3 @@
 - 🎯 Obsessed with **micro-interactions**, **pixel-perfect designs**, and **clean, scalable architecture**.
 - 🔍 Always exploring the **intersection of creativity and logic**—because why not both?
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furqan-26&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furqan-26&theme=radical" width="48%"/>
-</p>
