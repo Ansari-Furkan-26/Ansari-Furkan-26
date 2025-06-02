@@ -9,13 +9,22 @@
 
 ## 🌟 About Me
 
-- 🎓 Graduated BSc.IT | Ex-Data Operator @3i-Infotech  
+- 🎓 BSc.IT Graduated | Ex-Data Associated @3i-Infotech  
 - 💻 Full Stack & MERN Stack Developer  
 - 🎨 Curious Creator | Design Storyteller | Pixel Aficionado  
 - 🚀 Passionate about UI/UX, Real-time Web Apps, and Clean Code  
 - ✨ Currently learning: **Python**  
 - 📍 Based in Mumbai | Open to PAN India / Remote / Abroad roles  
 - 💌 Portfolio: [furqan.portfolio](https://furqan-portfolio.netlify.app/)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=furqan-26&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furqan-26&theme=radical" width="48%"/>
+</p>
 
 ---
 
@@ -41,38 +50,10 @@
 
 ---
 
-## 📌 Featured Projects
-
-🚀 [Cool Concept](https://coolconcept.netlify.app/)  
-> Canteen Automation System – Order, Track, and Self-Serve with Real-time UI
-
-🚀 [RuknAlDyafa](https://ruknaldyafa.ae/)  
-🚀 [OneMenu](https://onemenu.netlify.app/)  
-🌐 [GDSC AIKTC Website](https://gdsc-aiktc.netlify.app/)  
-🛫 [FlightFinder Website](https://flightfinder.netlify.app/)  
-📱 [WhatSay Landing Page](https://github.com/furqan-26/WhatSay)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furqan-26&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furqan-26&theme=radical" width="48%"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://frontendgenie.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:26furqan.ansari@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/furqan._26" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="mailto:26furqan.ansari@gmail.com" target="_blank">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-1024.png" />
   </a>
 </p>
